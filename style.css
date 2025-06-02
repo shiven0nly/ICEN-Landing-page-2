@@ -383,12 +383,13 @@ footer {
     width: 20%;
     border-radius: 30px;
     position: relative;
-    left: 540px;
+    left: 610px;
     top: -200px;
 }
 
 .img1 {
     position: relative;
+    top: 15px;
     left: 90px;
 
 }
