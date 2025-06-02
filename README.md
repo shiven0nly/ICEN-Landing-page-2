@@ -19,7 +19,5 @@
 - Custom Animations & Transitions
 
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/ICEN-Landing-page-2-web.git
+<!-- If u want to reuse this repo , Please Give Me Credits! at github.com/shiven0nly/ -->
 
