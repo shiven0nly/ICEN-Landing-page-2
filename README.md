@@ -18,7 +18,9 @@
 - Google Fonts
 - Custom Animations & Transitions
 
+---
 
+## MAYBE SITE IS NOT THAT RESPONSIVE YET !! I AM WORKING ON IT TO MAKE IT MORE REFINE And RESPONSIVE !!
 
 
 
