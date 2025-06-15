@@ -23,6 +23,7 @@
 Screenshot 👇
 ![project2](https://github.com/user-attachments/assets/e6199765-631a-4e13-a0ea-27ec85a3e6dc)
 
+![image](https://github.com/user-attachments/assets/434abce0-24ad-4b0b-8d8e-944bbba68541)
 
 
  MAYBE SITE IS NOT THAT RESPONSIVE YET !! I AM WORKING ON IT TO MAKE IT MORE REFINE And RESPONSIVE !!
